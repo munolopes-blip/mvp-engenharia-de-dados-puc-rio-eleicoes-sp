@@ -183,7 +183,7 @@ Entre os 287 candidatos presentes nos dois anos, 153 (53,31%) mudaram de sigla p
 
 O dashboard consolida recorrência de candidatos, mudança de partido e distribuições de cor/raça e gênero. Ele consome somente as três tabelas Gold, sem consulta direta às camadas Bronze ou Silver.
 
-![Dashboard final](docs/prints/02_dashboard_final.png)
+![Dashboard final](docs/prints/06_dashboard_full_print.png)
 
 ## 10. Linhagem dos Dados
 
@@ -209,6 +209,8 @@ Durante a avaliação e a modelagem dos dados, surgiram novas perguntas de negó
 A maior dificuldade foi aprender a utilizar o Databricks e a linguagem adotada nos notebooks enquanto, ao mesmo tempo, era desenvolvido o raciocínio de ponta a ponta para o pipeline. A Inteligência Artificial foi utilizada como apoio à organização do projeto e à resolução de parte da codificação no Databricks; as regras de transformação, os resultados e as evidências foram verificados na plataforma.
 
 Como próximos passos, o projeto pode incorporar os dados de resultados eleitorais, testes automatizados de qualidade, execução agendada, atualização periódica das fontes e novas dimensões analíticas sobre as tabelas Gold.
+
+De qualquer forma, esse projeto foi muito enriquecedor, pude adiquirir muito conhecimento na pratica, tenho mais confianca em desenvolver projetos profissionais reais com essa base de conhecimento adquirido.
 
 ## 13. Estrutura do Repositório
 
