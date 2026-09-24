@@ -68,6 +68,7 @@ A Silver possui uma linha por candidatura e ano eleitoral, identificada logicame
 ![Data Catalog da tabela Silver](docs/prints/03_data_catalog_silver.png)
 
 ![Data Catalog da tabela Gold de comparação](docs/prints/04_data_catalog_gold.png)
+![Data Catalog da tabela Gold de comparação](docs/prints/07_linage_bronze_ate_gold.png)
 
 ## 6. Pipeline de Dados (ETL)
 
