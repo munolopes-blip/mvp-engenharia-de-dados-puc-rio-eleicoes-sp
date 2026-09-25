@@ -216,7 +216,7 @@ A maior dificuldade foi aprender a utilizar o Databricks e a linguagem adotada n
 
 Como próximos passos, o projeto pode incorporar os dados de resultados eleitorais, testes automatizados de qualidade, execução agendada, atualização periódica das fontes e novas dimensões analíticas sobre as tabelas Gold.
 
-De qualquer forma, esse projeto foi muito enriquecedor, pude adiquirir muito conhecimento na pratica, tenho mais confianca em desenvolver projetos profissionais reais com essa base de conhecimento adquirido.
+Este projeto foi muito enriquecedor porque me permitiu aplicar o conhecimento na prática. Com essa base sólida que construí, me sinto totalmente confiante para assumir novos desafios e projetos profissionais reais.
 
 ## 13. Estrutura do Repositório
 
