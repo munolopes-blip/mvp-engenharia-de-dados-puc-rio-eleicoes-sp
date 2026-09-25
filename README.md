@@ -220,23 +220,4 @@ De qualquer forma, esse projeto foi muito enriquecedor, pude adiquirir muito con
 
 ## 13. Estrutura do Repositório
 
-```text
-mvp-engenharia-de-dados-puc-rio-eleicoes-sp/
-├── README.md
-├── notebooks/
-│   ├── 01_Exploracao_Dados_TSE.ipynb
-│   ├── 02_Camada_Bronze.ipynb
-│   ├── 03_Camada_Silver.ipynb
-│   ├── 04_Camada_Gold.ipynb
-│   ├── 05_Dashboard_Analise.ipynb
-│   └── 06_Data_Catalog_Documentacao.ipynb
-├── docs/
-│   └── prints/
-│       ├── 01_validacao_final_gold.png
-│       ├── 02_dashboard_final.png
-│       ├── 03_data_catalog_silver.png
-│       ├── 04_data_catalog_gold.png
-│       └── 05_lineage_gold.png
-└── data/
-    └── README.md
-```
+![Data Catalog da tabela Gold de comparação](docs/prints/13_Estrutura_do_Repositorio.png)
