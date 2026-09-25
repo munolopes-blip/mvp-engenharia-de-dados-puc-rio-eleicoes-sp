@@ -65,9 +65,14 @@ A Silver possui uma linha por candidatura e ano eleitoral, identificada logicame
 | Gold | `gold_distribuicao_raca` | Distribuição de candidaturas por cor/raça. |
 | Gold | `gold_distribuicao_genero` | Distribuição de candidaturas por gênero. |
 
-![Data Catalog da tabela Silver](docs/prints/03_data_catalog_silver.png)
+![Data Catalog da tabela Silver](docs/prints/biblioteca_silver_candidatos_deputado_estadual_sp.png)
 
-![Data Catalog da tabela Gold de comparação](docs/prints/04_data_catalog_gold.png)
+![Data Catalog da tabela Gold de comparação](docs/prints/Biblioteca_gold_comparacao_candidatos_2022_2026.png)
+
+![Data Catalog da tabela Gold de comparação](docs/prints/Biblioteca_gold_distribuicao_genero.png)
+
+![Data Catalog da tabela Gold de comparação](docs/prints/Biblioteca_distribuicao_raca.png)
+
 ![Data Catalog da tabela Gold de comparação](docs/prints/07_linage_bronze_ate_gold.png)
 
 ## 6. Pipeline de Dados (ETL)
